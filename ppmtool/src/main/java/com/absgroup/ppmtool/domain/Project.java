@@ -2,11 +2,8 @@ package com.absgroup.ppmtool.domain;
 
 import java.util.Date;
 
-import org.springframework.lang.NonNull;
-
 import com.fasterxml.jackson.annotation.JsonFormat;
 
-import jakarta.annotation.Nonnull;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
